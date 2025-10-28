@@ -1,0 +1,35 @@
+body { background-color: #fde4ec;
+       font-family: Arial, sans-serif;
+       color: #222;
+       margin: 40px;
+     }
+     
+     h1 { 
+          color: #00796b; 
+     }
+     
+     h2 { color: #004d40; }
+     
+     p { font-size: 16px;
+         line-height: 1.5;
+     }
+     
+     table {  width: 100%;
+             border-collapse: collapse;
+             
+     }
+
+     
+     th, td { border: 1px solid #004d40;
+              padding: 8px 12px;
+              text-align: left;
+     }
+     ul, table { margin-top: 20px; }
+     a { color: #00695c;
+         text-decoration: none;
+         font-weigt : bold;
+     }
+     
+     th { background-color: #004d40;
+          color: #ffffff;
+     }
